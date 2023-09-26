@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "nome": "Tóquio",
+      "dataCriacao": "1457",
+      "populacao": 37435191,
+      "pib": "1931 bilhões USD",
+      "idh": 0.936,
+      "descricao": "Tóquio é a capital e maior cidade do Japão. É um dos centros financeiros globais e é famosa por sua moderna arquitetura, moda e cultura."
+    },
+    {
+      "id": 2,
+      "nome": "Londres",
+      "dataCriacao": "43 d.C.",
+      "populacao": 8982000,
+      "pib": "565 bilhões USD",
+      "idh": 0.922,
+      "descricao": "Londres é a capital da Inglaterra e do Reino Unido e é conhecida por sua rica história, arquitetura e diversidade cultural."
+    },
+    {
+      "id": 3,
+      "nome": "Paris",
+      "dataCriacao": "3º século a.C.",
+      "populacao": 2148000,
+      "pib": "709 bilhões USD",
+      "idh": 0.901,
+      "descricao": "Paris, conhecida como 'Cidade Luz', é famosa por seus marcos históricos, museus e vibrante vida cultural."
+    },
+    {
+      "id": 4,
+      "nome": "Nova Iorque",
+      "dataCriacao": "1624",
+      "populacao": 8419600,
+      "pib": "1550 bilhões USD",
+      "idh": 0.937,
+      "descricao": "Nova Iorque é uma das cidades mais icônicas do mundo, conhecida por sua influência em finanças, moda e arte."
+    },
+    {
+      "id": 5,
+      "nome": "Pequim",
+      "dataCriacao": "1045 a.C.",
+      "populacao": 21540000,
+      "pib": "553 bilhões USD",
+      "idh": 0.796,
+      "descricao": "Pequim, a capital da China, é uma das cidades mais populosas do mundo e tem uma rica herança cultural e histórica."
+    },
+    {
+      "id": 6,
+      "nome": "Sidney",
+      "dataCriacao": "1788",
+      "populacao": 5230330,
+      "pib": "337 bilhões USD",
+      "idh": 0.939,
+      "descricao": "Sidney é a cidade mais populosa da Austrália e é conhecida por sua deslumbrante arquitetura e porto natural."
+    },
+    {
+      "id": 7,
+      "nome": "Brasília",
+      "dataCriacao": "1960",
+      "populacao": 3055149,
+      "pib": "99.5 bilhões USD",
+      "idh": 0.824,
+      "descricao": "Brasília é a capital do Brasil e é famosa por sua moderna arquitetura planejada e patrimônio cultural."
+    },
+    {
+      "id": 8,
+      "nome": "Cidade do Cabo",
+      "dataCriacao": "1652",
+      "populacao": 4336881,
+      "pib": "58.06 bilhões USD",
+      "idh": 0.704,
+      "descricao": "A Cidade do Cabo é a capital legislativa da África do Sul e é conhecida por sua beleza natural e vinícolas."
+    }
+  ]
+  
